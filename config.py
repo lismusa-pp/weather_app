@@ -1,7 +1,7 @@
 import os
 
 
-API_KEY = os.getenv("OWM_API_KEY") or "YOUR_API_KEY_HERE"
+API_KEY = os.getenv("OWM_API_KEY") or "21ba1d0ec910a8f415c466c05f21f6f3"
 
 # Base URLs
 BASE_GEOCODE = "http://api.openweathermap.org/geo/1.0/direct"
